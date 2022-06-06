@@ -21,7 +21,7 @@
 # Supporting code & data for articles
 1. Brabec, J., Durmo, F., Szczepankiewicz, F., Brynolfsson, P., Lampinen, B., Rydelius, A., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding. Frontiers in Neuroscience, 16.
 2. Brabec, J., Szczepankiewicz, F., Lennartsson, F., Englund, E., Pebdani, H., Bengzon, J., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Histogram analysis of tensor-valued diffusion MRI in meningiomas: Relation to consistency, histological grade and type. NeuroImage: Clinical, 33, p.102912.(https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo)
-3. Brabec, J., Lasič, S. and Nilsson, M., 2020. Time‐dependent diffusion in undulating thin fibers: Impact on axon diameter estimation. NMR in Biomedicine, 33(3), p.e4187.[[GitHub]](https://github.com/jan-brabec/undulating_fibers), [[Article online]], (https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.4187), [[Article in pdf]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nbm.4187)
+3. Brabec, J., Lasič, S. and Nilsson, M., 2020. Time‐dependent diffusion in undulating thin fibers: Impact on axon diameter estimation. NMR in Biomedicine, 33(3), p.e4187.[[GitHub]](https://github.com/jan-brabec/undulating_fibers), [[Article online]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.4187), [[Article in pdf]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nbm.4187)
 
 
 
