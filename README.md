@@ -4,7 +4,7 @@
 - 👀 Google Scholar: https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ
 - 👀 Linkedin: https://www.linkedin.com/in/brabec-jan/
 - 📫 How to reach me on jan.brabec [at] med [dot] lu [dot] se
-- All work is licensed under a [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+- All work is licensed under [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
