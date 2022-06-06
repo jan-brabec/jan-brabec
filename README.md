@@ -3,8 +3,7 @@
 - 👀 I am interested in diffusion MRI, I am a PhD candidate with background in M.D. and M.Sc. in Physics.
 - 👀 Here you will find primarily code supporting the published articles listed below.
 - 👀 All work under [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa].
-- 👀 Google Scholar: https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ
-- 👀 Linkedin: https://www.linkedin.com/in/brabec-jan/
+- 👀 [Google Scholar](https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ), [Linkedin](https://www.linkedin.com/in/brabec-jan/)
 - 📫 E-mail: jan.brabec [at] med [dot] lu [dot] se
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
