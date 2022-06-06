@@ -4,7 +4,7 @@
 - 👀 Here you will find primarily code supporting the published articles listed below.
 - 👀 All work under [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa].
 - 👀 [Google Scholar](https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Jan-Brabec-4), [Linkedin](https://www.linkedin.com/in/brabec-jan/), [Twitter](https://twitter.com/Vravec), [Lund University profile](https://portal.research.lu.se/en/persons/jan-brabec), [MR Physics Group](https://www.msf.lu.se/research/mr-physics-group) and [own YouTube channel](https://www.youtube.com/channel/UC_Nh5mRrlr38rube1zRnYxQ)
-- 📫 E-mail: jan.brabec [at] med [dot] lu [dot] se
+- 📫 E-mail: jan [dot] brabec [at] med [dot] lu [dot] se
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
