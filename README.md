@@ -11,7 +11,7 @@
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # Most notable packages
-- [Monte Carlo simulator of diffusion](quora.com/profile/Ashish-Kulkarni-100).
+- ([Monte Carlo simulator of diffusion](https://github.com/jan-brabec/undulating_fibers/tree/master/Monte%20Carlo)).
 - Simulation of diffusion in 1D-pathways.
 - Analytical code for prediction for diffusion spectrum of restrictive diffusion between planes, in a circle or a sphere.
 - Functions supporting diffusion spectrum analysis according to Stepisnik et al.
