@@ -14,7 +14,7 @@
 2. [Brabec, J., Szczepankiewicz, F., Lennartsson, F., Englund, E., Pebdani, H., Bengzon, J., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Histogram analysis of tensor-valued diffusion MRI in meningiomas: Relation to consistency, histological grade and type. NeuroImage: Clinical, 33, p.102912.](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo)
 3. [Brabec, J., Lasič, S. and Nilsson, M., 2020. Time‐dependent diffusion in undulating thin fibers: Impact on axon diameter estimation. NMR in Biomedicine, 33(3), p.e4187.](https://github.com/jan-brabec/undulating_fibers)
 
-# Most notable packages
+# Packages
 - [Monte Carlo simulator of diffusion.](https://github.com/jan-brabec/undulating_fibers/tree/master/Monte%20Carlo)
 - [Simulation of diffusion in 1D-pathways.](https://github.com/jan-brabec/undulating_fibers/tree/master/Gaussian%20Sampling)
 - [Analytical code for prediction for diffusion spectrum of restrictive diffusion between planes, in a circle or a sphere.](https://github.com/jan-brabec/undulating_fibers/tree/master/Analytical)
