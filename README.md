@@ -16,7 +16,7 @@
 - [Functions supporting diffusion spectrum analysis according to Stepisnik et al.](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/SA_functions)
 - [Histogram analysis code within ROIs.](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis)
 - Plotting function used in articles [[1]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo/tree/main/Analyze/figures), [[2]](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis), [[3]](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/plot_f).
-- [Miscellaneous code](https://github.com/jan-brabec/Miscellaneous)
+- [Miscellaneous code.](https://github.com/jan-brabec/Miscellaneous)
 
 # Supporting code for articles
 1. [Brabec, J., Durmo, F., Szczepankiewicz, F., Brynolfsson, P., Lampinen, B., Rydelius, A., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding. Frontiers in Neuroscience, 16.](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo)
