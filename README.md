@@ -1,6 +1,6 @@
 - 👋 Hi, I am @jan-brabec
-- 👀 I am interested in diffusion MRI
-- 👀 I am a PhD student with background in M.D. and M.Sc. in Physics
+- 👀 I am interested in diffusion MRI, I a PhD student with background in M.D. and M.Sc. in Physics
 - 👀 Here you will find primarily code the published articles.
 - 👀 All published articles: https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ
+- 👀 Linkedin: https://www.linkedin.com/in/brabec-jan/
 - 📫 How to reach me on jan.brabec [at] med [dot] lu [dot] se
