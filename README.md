@@ -5,8 +5,6 @@
 - 👀 Google Scholar: https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ
 - 👀 Linkedin: https://www.linkedin.com/in/brabec-jan/
 - 📫 E-mail: jan.brabec [at] med [dot] lu [dot] se
-
-
 - Most notably includes:
    - aa
 
