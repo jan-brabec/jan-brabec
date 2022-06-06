@@ -1,6 +1,6 @@
 - 👋 Hi, I am @jan-brabec
 - 👀 I am interested in diffusion MRI, I am a PhD candidate with background in M.D. and M.Sc. in Physics
-- 👀 Here you will find primarily code the published articles.
+- 👀 Here you will find primarily code to the published articles.
 - 👀 All work under [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 - 👀 Google Scholar: https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ
 - 👀 Linkedin: https://www.linkedin.com/in/brabec-jan/
