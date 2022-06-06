@@ -18,7 +18,7 @@
 - Plotting function used in articles [[1]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo/tree/main/Analyze/figures), [[2]](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis), [[3]](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/plot_f).
 - [Miscellaneous code.](https://github.com/jan-brabec/Miscellaneous)
 
-# Supporting code for articles
+# Supporting code & data for articles
 1. [Brabec, J., Durmo, F., Szczepankiewicz, F., Brynolfsson, P., Lampinen, B., Rydelius, A., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding. Frontiers in Neuroscience, 16.](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo)
 2. [Brabec, J., Szczepankiewicz, F., Lennartsson, F., Englund, E., Pebdani, H., Bengzon, J., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Histogram analysis of tensor-valued diffusion MRI in meningiomas: Relation to consistency, histological grade and type. NeuroImage: Clinical, 33, p.102912.](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo)
 3. [Brabec, J., Lasič, S. and Nilsson, M., 2020. Time‐dependent diffusion in undulating thin fibers: Impact on axon diameter estimation. NMR in Biomedicine, 33(3), p.e4187.](https://github.com/jan-brabec/undulating_fibers)
