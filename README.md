@@ -21,3 +21,4 @@
 - [Functions supporting diffusion spectrum analysis according to Stepisnik et al.](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/SA_functions)
 - [Histogram analysis code within ROIs.](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis)
 - Plotting function used in articles [[1]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo/tree/main/Analyze/figures), [[2]](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis), [[3]](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/plot_f).
+- [Miscellaneous code](https://github.com/jan-brabec/Miscellaneous)
