@@ -13,7 +13,7 @@
 - [Monte Carlo simulator of diffusion, diffusion spectra and dMRI signal.](https://github.com/jan-brabec/undulating_fibers/tree/master/Monte%20Carlo)
 - [Semi-analytical simulation of diffusion, diffusion spectra and dMRI signal in 1D-pathways.](https://github.com/jan-brabec/undulating_fibers/tree/master/Gaussian%20Sampling)
 - [Analytical prediction for diffusion spectrum of restrictive diffusion between planes, in a circle or a sphere.](https://github.com/jan-brabec/undulating_fibers/tree/master/Analytical)
-- [Functions supporting diffusion spectrum analysis according to Stepisnik et al. 1993](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/SA_functions)
+- [Functions supporting diffusion spectrum analysis according to Stepisnik et al. 1993.](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/SA_functions)
 - [Histogram analysis code within ROIs.](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis)
 - Plotting function used in articles [[1]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo/tree/main/Analyze/figures), [[2]](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis), [[3]](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/plot_f).
 - [Miscellaneous code.](https://github.com/jan-brabec/Miscellaneous)
