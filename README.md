@@ -1,10 +1,7 @@
-# Hello!
-- 👋 I am @jan-brabec.
-- 👀 I am interested in diffusion MRI, I am a PhD candidate at Lund University with background in M.D. and Master in Science in Physics.
-- 👀 Here you will find primarily code supporting the published articles listed below with pointed out coded packages.
+# Hello! 👋
+- 👀 This repository contains code & data supporting the published articles (below).
+- 👀 You will find here also packages related to diffsion MRI (below).
 - 👀 All work under [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa].
-- 👀 [Google Scholar](https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Jan-Brabec-4), [Linkedin](https://www.linkedin.com/in/brabec-jan/), [Twitter](https://twitter.com/Vravec), [Lund University profile](https://portal.research.lu.se/en/persons/jan-brabec), [MR Physics Group in Lund](https://www.msf.lu.se/research/mr-physics-group) or [YouTube](https://www.youtube.com/channel/UC_Nh5mRrlr38rube1zRnYxQ)
-- 📫 E-mail: jan [dot] brabec [at] med [dot] lu [dot] se
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
@@ -19,8 +16,14 @@
 - [Miscellaneous code.](https://github.com/jan-brabec/Miscellaneous)
 
 # Supporting code & data for articles
-1. Brabec, J., Durmo, F., Szczepankiewicz, F., Brynolfsson, P., Lampinen, B., Rydelius, A., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding. *Frontiers in Neuroscience, 16*. -[[GitHub]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo)-[[Article in HTML]](https://www.frontiersin.org/articles/10.3389/fnins.2022.842242/full)-[[Article in PDF]](https://www.frontiersin.org/articles/10.3389/fnins.2022.842242/pdf)-
-2. Brabec, J., Szczepankiewicz, F., Lennartsson, F., Englund, E., Pebdani, H., Bengzon, J., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Histogram analysis of tensor-valued diffusion MRI in meningiomas: Relation to consistency, histological grade and type. *NeuroImage: Clinical, 33, p.102912*. -[[GitHub]](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo)-[[Article in HTML]](https://www.sciencedirect.com/science/article/pii/S2213158221003569)-[[Article in PDF]](https://www.sciencedirect.com/science/article/pii/S2213158221003569/pdfft?isDTMRedir=true)-
-3. Brabec, J., Lasič, S. and Nilsson, M., 2020. Time‐dependent diffusion in undulating thin fibers: Impact on axon diameter estimation. *NMR in Biomedicine, 33(3), p.e4187*. -[[GitHub]](https://github.com/jan-brabec/undulating_fibers)-[[Article in HTML]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.4187)-[[Article in PDF]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nbm.4187)-
+1. [Brabec, J., Durmo, F., Szczepankiewicz, F., Brynolfsson, P., Lampinen, B., Rydelius, A., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding. *Frontiers in Neuroscience, 16*.](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo) -[[GitHub]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo)-[[Article in HTML]](https://www.frontiersin.org/articles/10.3389/fnins.2022.842242/full)-[[Article in PDF]](https://www.frontiersin.org/articles/10.3389/fnins.2022.842242/pdf)-
+2. [Brabec, J., Szczepankiewicz, F., Lennartsson, F., Englund, E., Pebdani, H., Bengzon, J., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Histogram analysis of tensor-valued diffusion MRI in meningiomas: Relation to consistency, histological grade and type. *NeuroImage: Clinical, 33, p.102912*.](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo) -[[GitHub]](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo)-[[Article in HTML]](https://www.sciencedirect.com/science/article/pii/S2213158221003569)-[[Article in PDF]](https://www.sciencedirect.com/science/article/pii/S2213158221003569/pdfft?isDTMRedir=true)-
+3. [Brabec, J., Lasič, S. and Nilsson, M., 2020. Time‐dependent diffusion in undulating thin fibers: Impact on axon diameter estimation. *NMR in Biomedicine, 33(3), p.e4187*.](https://github.com/jan-brabec/undulating_fibers) -[[GitHub]](https://github.com/jan-brabec/undulating_fibers)-[[Article in HTML]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.4187)-[[Article in PDF]](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nbm.4187)-
 
    For other articles, please see [Google Scholar](https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Jan-Brabec-4).
+
+# Contact
+- 👋 I am @jan-brabec.
+- 👀 I am interested in diffusion MRI and am a PhD candidate at Lund University. Background in M.D. and Master in Science in Physics.
+- 👀 [Google Scholar](https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Jan-Brabec-4), [Linkedin](https://www.linkedin.com/in/brabec-jan/), [Twitter](https://twitter.com/Vravec), [Lund University profile](https://portal.research.lu.se/en/persons/jan-brabec), [MR Physics Group in Lund](https://www.msf.lu.se/research/mr-physics-group) or [YouTube](https://www.youtube.com/channel/UC_Nh5mRrlr38rube1zRnYxQ)
+- 📫 E-mail: jan [dot] brabec [at] med [dot] lu [dot] se
