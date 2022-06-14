@@ -1,6 +1,6 @@
 # Hello! 👋
-- 👀 This repository contains code & data supporting the published articles (below).
-- 👀 You will find here also packages related to diffsion MRI (below).
+- 👀 This repository contains code & data supporting the published articles (listed below).
+- 👀 You will find here also packages related to diffusion MRI (listed below).
 
 # Packages
 - [Monte Carlo simulator of diffusion, diffusion spectra and dMRI signal.](https://github.com/jan-brabec/undulating_fibers/tree/master/Monte%20Carlo)
