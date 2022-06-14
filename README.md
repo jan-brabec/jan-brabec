@@ -25,7 +25,9 @@
 - 📫 E-mail: jan [dot] brabec [at] med [dot] lu [dot] se
 
 
-- 👀 All work under [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa].
+
+
+All work under [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa].
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
