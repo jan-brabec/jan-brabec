@@ -4,11 +4,11 @@
 
 # Packages
 - [Monte Carlo simulator of diffusion in 1D-pathways with their diffusion spectra and dMRI signal.](https://github.com/jan-brabec/undulating_fibers/tree/master/Monte%20Carlo)
-- [Semi-analytical simulator of diffusion in 1D-pathways with their diffusion spectra and dMRI signal.](https://github.com/jan-brabec/undulating_fibers/tree/master/Gaussian%20Sampling)
+- [Semi-analytical simulator of diffusion in 1D-pathways with their diffusion spectra and diffusion MRI signal.](https://github.com/jan-brabec/undulating_fibers/tree/master/Gaussian%20Sampling)
 - [Analytical prediction for diffusion spectrum of restrictive diffusion between planes, in a circle or a sphere.](https://github.com/jan-brabec/undulating_fibers/tree/master/Analytical)
 - [Functions supporting diffusion spectrum analysis according to Stepisnik et al. 1993.](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/SA_functions)
-- [Functions supporting dMRI signal from diffusion.](https://github.com/jan-brabec/undulating_fibers/tree/master/Monte%20Carlo/MC_functions)
-- [Histogram analysis within ROIs.](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis)
+- [Functions supporting generation of diffusion MRI signal from simulated diffusion.](https://github.com/jan-brabec/undulating_fibers/tree/master/Monte%20Carlo/MC_functions)
+- [Histogram analysis within region-of-interests.](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis)
 - Plotting function used in published peer-reviewd articles [[1]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo/tree/main/Analyze/figures), [[2]](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis), [[3]](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/plot_f).
 - [Miscellaneous code.](https://github.com/jan-brabec/Miscellaneous)
 
