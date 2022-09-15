@@ -10,7 +10,7 @@
 - [Functions supporting generation of diffusion MRI signal from simulated diffusion.](https://github.com/jan-brabec/undulating_fibers/tree/master/Monte%20Carlo/MC_functions)
 - [Histogram analysis within region-of-interests.](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis)
 - Plotting function used in published peer-reviewd articles [[1]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo/tree/main/Analyze/figures), [[2]](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis), [[3]](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/plot_f).
-- [Miscellaneous code.](https://github.com/jan-brabec/Miscellaneous)
+- [Code related to the dissertation.](https://github.com/jan-brabec/kappa)
 
 # Supporting code & data for articles
 1. [Brabec, J., Durmo, F., Szczepankiewicz, F., Brynolfsson, P., Lampinen, B., Rydelius, A., Knutsson, L., Westin, C.F., Sundgren, P.C. and Nilsson, M., 2022. Separating Glioma Hyperintensities From White Matter by Diffusion-Weighted Imaging With Spherical Tensor Encoding. *Frontiers in Neuroscience, 16*.](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo) -[[GitHub]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo)-[[Article in HTML]](https://www.frontiersin.org/articles/10.3389/fnins.2022.842242/full)-[[Article in PDF]](https://www.frontiersin.org/articles/10.3389/fnins.2022.842242/pdf)-
