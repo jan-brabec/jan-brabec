@@ -20,10 +20,10 @@
    For other articles, please see [Google Scholar](https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Jan-Brabec-4).
 
 # Contact
-- 👋 I am @jan-brabec.
-- 👀 I am interested in diffusion MRI and am a post-doc at John Hopkins University, USA. Background: PhD in diffusion MRI, M.D. and Master in Science in Physics.
-- 👀 [Google Scholar](https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Jan-Brabec-4), [Linkedin](https://www.linkedin.com/in/brabec-jan/), [Twitter](https://twitter.com/Vravec), [Lund University profile](https://portal.research.lu.se/en/persons/jan-brabec), [MR Physics Group in Lund](https://www.msf.lu.se/research/mr-physics-group) or [YouTube](https://www.youtube.com/channel/UC_Nh5mRrlr38rube1zRnYxQ)
-- 📫 E-mail: jan [dot] brabec [at] med [dot] lu [dot] se
+- 👋 I am @jan-brabec and I am interested in diffusion MRI.
+- 👀 I am a post-doc at John Hopkins University, USA. Background: PhD in diffusion MRI,  Master in Science in Physics both from Lund University in Sweden and M.D. from Masaryk University in Brno, Czech Republic.
+- 👀 [Google Scholar](https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Jan-Brabec-4), [Linkedin](https://www.linkedin.com/in/brabec-jan/)
+- 📫 E-mail: j [dot] brabec2 [at] jh [dot] edu
 
 
 
