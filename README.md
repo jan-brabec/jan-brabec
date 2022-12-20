@@ -21,7 +21,8 @@
 
 # Contact
 - 👋 I am @jan-brabec and I am interested in diffusion MRI.
-- 👀 I am a post-doc at John Hopkins University, USA. Background: PhD in diffusion MRI,  Master in Science in Physics both from Lund University in Sweden and M.D. from Masaryk University in Brno, Czech Republic.
+- 👀 I am a post-doc at John Hopkins University, USA.
+- 👀 Background: PhD in diffusion MRI, Master in Science in Physics both from Lund University in Sweden and M.D. from Masaryk University in Brno, Czech Republic.
 - 👀 [Google Scholar](https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Jan-Brabec-4), [Linkedin](https://www.linkedin.com/in/brabec-jan/)
 - 📫 E-mail: j [dot] brabec2 [at] jh [dot] edu
 
