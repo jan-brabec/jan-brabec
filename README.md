@@ -1,15 +1,19 @@
 # Hello! 👋
 - 👀 This repository contains [supporting code & data](https://github.com/jan-brabec#supporting-code--data-for-articles) (below) for the published articles.
-- 👀 You will find here also [packages](https://github.com/jan-brabec#packages) (below) related to diffusion MRI.
+- 👀 You will find here also [packages](https://github.com/jan-brabec#packages) (below) related to diffusion MRI or histology analysis.
 
 # Packages
+- [Coregistration between histology and MR images](https://github.com/jan-brabec/microimaging_histology_DIB) (both [rigid](https://github.com/jan-brabec/microimaging_histology_DIB/tree/main/Step_2_Coreg_rigid) and [non-rigid landmark based](https://github.com/jan-brabec/microimaging_histology_DIB/tree/main/Step_3_Coreg_HE_fine) and [rigid coregistration of two histology slides](https://github.com/jan-brabec/microimaging_histology_DIB/tree/main/Step_4_Coreg_EVG_to_HE)).
+- [Convolutional neural network analysis of histology slides](https://github.com/jan-brabec/microimaging_vs_histology_in_meningeomas/tree/main/Step_c_Analyze_CNN)
+- [Structure tensor analysis of histology slides](https://github.com/jan-brabec/microimaging_vs_histology_in_meningeomas/tree/main/Step_b_Analyze_SA)
+- [Graphical User interface for viewing CNN results](https://github.com/jan-brabec/Microimaging_histology_CNN_UI)
 - [Monte Carlo simulator of diffusion in 1D-pathways with their diffusion spectra and dMRI signal.](https://github.com/jan-brabec/undulating_fibers/tree/master/Monte%20Carlo)
 - [Semi-analytical simulator of diffusion in 1D-pathways with their diffusion spectra and diffusion MRI signal.](https://github.com/jan-brabec/undulating_fibers/tree/master/Gaussian%20Sampling)
 - [Analytical prediction for diffusion spectrum of restrictive diffusion between planes, in a circle or a sphere.](https://github.com/jan-brabec/undulating_fibers/tree/master/Analytical)
 - [Functions supporting diffusion spectrum analysis according to Stepisnik et al. 1993.](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/SA_functions)
 - [Functions supporting generation of diffusion MRI signal from simulated diffusion.](https://github.com/jan-brabec/undulating_fibers/tree/master/Monte%20Carlo/MC_functions)
 - [Histogram analysis within region-of-interests.](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis)
-- Plotting function used in published peer-reviewd articles [[1]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo/tree/main/Analyze/figures), [[2]](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis), [[3]](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/plot_f).
+- Plotting function used in published peer-reviewd articles [[1]](https://github.com/jan-brabec/tensor_valued_gliomas_in_vivo/tree/main/Analyze/figures), [[2]](https://github.com/jan-brabec/tensor_valued_meningiomas_in_vivo/tree/main/Analysis), [[3]](https://github.com/jan-brabec/undulating_fibers/tree/master/Spectral%20Analysis/plot_f), [[4]](https://github.com/jan-brabec/microimaging_histology_DIB/tree/main/Step_6_Manuscript_figures), [[5]](https://github.com/jan-brabec/microimaging_vs_histology_in_meningeomas/tree/main/Step_e_Manuscript_figures/plot_scripts).
 - [Code related to the dissertation.](https://github.com/jan-brabec/kappa)
 
 # Supporting code & data for articles
