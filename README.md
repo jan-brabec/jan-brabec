@@ -30,7 +30,7 @@
 - 👀 I am a post-doc at John Hopkins University, USA.
 - 👀 Background: Post-doc at John Hopkins university, PhD in diffusion MRI, Master in Science in Physics both from Lund University in Sweden and M.D. from Masaryk University in Brno, Czech Republic.
 - 👀 [Website](https://jan-brabec.github.io), [Google Scholar](https://scholar.google.com/citations?hl=en&user=c01AYp4AAAAJ), [ResearchGate](https://www.researchgate.net/profile/Jan-Brabec-4), [Linkedin](https://www.linkedin.com/in/brabec-jan/)
-- 📫 E-mail: j [dot] brabec2 [at] jh [dot] edu
+- 📫 E-mail: brabec [at] kennedykrieger [dot] org
 
 
 
